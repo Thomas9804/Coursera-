@@ -1,0 +1,21 @@
+{
+
+  "name": "guiahoteles",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto de Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Thomas_1998@bitbucket.org/Thomas_1998/guiahoteles.git"
+  },
+  "author": "Tomas Arias",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Thomas_1998/guiahoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

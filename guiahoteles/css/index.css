@@ -1,0 +1,30 @@
+.d-flex{
+	margin-left: 6%;
+	margin-right: 6%;
+}
+.jumbotron{
+	text-align: center;
+	background: yellow;
+}
+h1{
+	padding: 6%;
+}
+.container{
+	padding: 2%;
+	margin: auto;
+}
+.hot{
+	text-align: center;
+	margin-bottom: 2%;
+}
+footer{
+	background: yellow;
+	margin-top: 4%;
+}
+.fot{
+	padding: 2%;
+	text-align: center;
+	margin: auto;
+}
+
+
